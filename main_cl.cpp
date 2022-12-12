@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 #include "Vector2.h"
+#include "Vector2.cpp"
 #define pi 3.141592653589793238462643
 using namespace std;
 
